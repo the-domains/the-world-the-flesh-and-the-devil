@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The World, the Flesh, and the Devil]]></title>
+        <description><![CDATA[The World, the Flesh, and the Devil]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 20:51:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The World, The Flesh, and the Devil- Introduction]]></title>
+            <description><![CDATA[<article><h1>The World, The Flesh, and the Devil- Introduction</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ceeac2cb842d48c5cea7ab138c940da862b3f21d.jpg"></article>]]></description>
+            <link>undefinedthe-world-the-flesh-and-the-devil-introduction/index.html</link>
+            <guid isPermaLink="false">70222397-91c5-4fb9-ba63-e0b41ecdc6bd</guid>
+            <pubDate>Tue, 09 Feb 2016 20:50:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
