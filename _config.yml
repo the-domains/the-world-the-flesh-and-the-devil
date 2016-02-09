@@ -1,0 +1,28 @@
+name: 'The World, The Flesh, and the Devil'
+favicon: null
+layout_spectrum: 0.5799254530575126
+typography_spectrum: 0.7712923567742109
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fcedd8'
+    - '#9bafb0'
+    - '#db9589'
+    - '#000000'
+    - '#a47271'
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.29417864605784416
+  rhythmicContrast: 0.75
+purpose: []
