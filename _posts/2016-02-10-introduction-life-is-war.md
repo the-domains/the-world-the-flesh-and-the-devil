@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-10T03:25:08.489Z'
-dateModified: '2016-02-10T03:25:06.954Z'
+datePublished: '2016-02-10T03:31:52.886Z'
+dateModified: '2016-02-10T03:31:45.639Z'
 title: 'Introduction: Life is War'
 author: []
 sourcePath: _posts/2016-02-10-introduction-life-is-war.md
