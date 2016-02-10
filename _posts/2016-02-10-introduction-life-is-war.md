@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T03:12:54.232Z'
-dateModified: '2016-02-10T03:12:51.170Z'
+datePublished: '2016-02-10T03:12:29.653Z'
+dateModified: '2016-02-10T03:12:14.166Z'
 title: 'Introduction: Life is War'
 author: []
 authors: []
