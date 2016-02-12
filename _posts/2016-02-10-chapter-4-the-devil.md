@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T03:04:49.868Z'
-dateModified: '2016-02-10T03:04:34.499Z'
+datePublished: '2016-02-12T19:25:15.947Z'
+dateModified: '2016-02-12T19:25:12.456Z'
 title: Chapter 4- The Devil
 author: []
+sourcePath: _posts/2016-02-10-chapter-4-the-devil.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-chapter-4-the-devil.md
-published: true
 url: chapter-4-the-devil/index.html
 _type: Article
 
@@ -35,11 +35,7 @@ father of lies. ~John 8:44_**
 When you think of the
 devil, what comes to mind? A red guy with horns and a pitchfork who sits on
 your shoulder and tempts you to make the wrong decisions? Maybe you think of
-horror movies like 
-
-_The Exorcist_
-
-, or occult practices like ouija boards
+horror movies like _The Exorcist, _or occult practices like ouija boards
 and palm readers. These sorts of pop culture ideas can, without our even
 realizing it, have a profound influence on the way we think about the demonic.
 
@@ -77,18 +73,10 @@ character, for he is a liar and the father of lies. ~John 8:44_
 Lest you think that
 deception isn't deadly, see how Jesus links Satan's murderous heart with his
 lies. "He was a murderer from the beginning," says the One who was there in the
-beginning to see Satan's transformation from angel of light to murderer, "
-
-_and
-does not stand in the truth._
-
-" The main way that Satan murders---that is,
+beginning to see Satan's transformation from angel of light to murderer, "_and
+does not stand in the truth." _The main way that Satan murders---that is,
 destroys people and drags them down to the second death along with him---is
-through 
-
-_lies_
-
-. From the very first lie---"You will not die"---that brought
+through _lies. _From the very first lie---"You will not die"---that brought
 down death on the human race, to his persistent whispering that sin is not
 dangerous, repentance is not necessary, and Jesus is not who he says he is,
 Satan kills more people through his lies than through his overt shows of force.
@@ -127,13 +115,7 @@ trick you; the compelling reason for their existence is fear. Whenever we would
 move into a new house, my parents would always cover up the spirit house with a
 sheet, making a statement that we would not participate in that spirit worship.
 People were always horrified, saying things like, "Don't you realize that
-you'll make the spirits 
-
-_angry_
-
-?
-
-_"_
+you'll make the spirits _angry?__"_
 
 People in Thailand and
 other places like it are in overt bondage to Satan, kept in chains of fear.
@@ -245,11 +227,7 @@ down on your anger, and give no opportunity to the devil. ~Ephesians 4:26-27_
 Don't let the sun go down
 on your anger---that is, do not persist in unforgiveness, bitterness, and
 unresolved conflict---because doing so gives "opportunity to the devil." That
-word translated "opportunity" is the Greek word 
-
-_topos_
-
-, which means "ground" or "place." It's where we get out word
+word translated "opportunity" is the Greek word _topos, _which means "ground" or "place." It's where we get out word
 "topography." What Paul is saying is that bitterness gives ground in our soul
 to the enemy, a beachhead into which he can move and take control. 
 
@@ -270,12 +248,8 @@ bring it into the light, confess it to God and to fellow believers, repent,
 appropriate the free mercy of the gospel that covers all your sin, and ask others
 to hold you accountable. Only by first submitting to God and repenting will the
 promise come true: "Resist the devil, and he will flee from you." A heart
-submitted to God gives no ground, no 
-
-_topos_
-
-,
-to the enemy; when you are confessing and repenting and believing the gospel,
+submitted to God gives no ground, no _topos,
+_to the enemy; when you are confessing and repenting and believing the gospel,
 Satan has no choice but to flee.
 
 So how do we tell the
@@ -306,12 +280,8 @@ many demons are there? Where is Satan now? While the Bible gives us glimpses,
 apparently God doesn't think that we need to know all the details in order to
 live full, successful, free Christian lives. The central focus of the Bible is
 not Satan and his power; it is Jesus and his almighty grace. And so we have to
-be content to limit our understanding of the demonic to what the Bible 
-
-_actually
-says_
-
-. When we do that, I believe that instead of having a crippled
+be content to limit our understanding of the demonic to what the Bible _actually
+says. _When we do that, I believe that instead of having a crippled
 understanding, we'll find that God has actually given us exactly what we need to
 faithfully live for him in this fallen world.
 
@@ -402,11 +372,7 @@ explicit in his description of Satan as a roaring lion:
 __
 
 _Your adversary the devil prowls around like a roaring lion,
-seeking someone to devour. Resist him, firm in your faith, knowing that _
-
-the same kinds of suffering
-
-_are being experienced by your
+seeking someone to devour. Resist him, firm in your faith, knowing that _the same kinds of suffering _are being experienced by your
 brotherhood throughout the world._
 
 What, exactly, does it mean
@@ -452,12 +418,8 @@ holiness, which makes Satan and his demonic cohort's job all the easier. That
 connection between our sinful nature and Satan's ability to successfully tempt is
 made explicitly in 1 Corinthians 7 in Paul's advice to married couples: "Do not
 deprive one another, except perhaps by agreement for a limited time, that you
-may devote yourselves to prayer; but then come together again, 
-
-_so that Satan
-may not tempt you because of your lack of self-control._
-
-" A lack of
+may devote yourselves to prayer; but then come together again, _so that Satan
+may not tempt you because of your lack of self-control." _A lack of
 self-control in your own heart gives Satan leverage to exploit and harm.
 
 Finally, one of Satan's
@@ -548,9 +510,7 @@ and blessed by God. "Stretch out your hand and touch all that he has, and he
 will curse you to your face," Satan claims.
 
 What we see Satan doing
-here is 
-
-_accusing _
+here is _accusing_
 
 Job. In fact, that's what the name "Satan" actually
 means; it means "accuser" or "adversary." Satan is the great accuser of
@@ -577,11 +537,7 @@ verses of Job 1, Satan is going to literally unleash hell on poor Job and his
 family, and we see Satan exercising control over weather (verses 16 and 19),
 evil people (verses 15 and 17), and, later, illness (2:7). Satan wields
 tremendous power over the created world. That's why it's so important to see
-one crucial detail: 
-
-_Satan is on a leash_
-
-.
+one crucial detail: _Satan is on a leash._
 
 The Bible does not present
 God and Satan as a yin/yang duality of equal and opposing power. God is the one
@@ -612,25 +568,11 @@ you: Satan has to get permission for every move against God's people.
 
 And even beyond that truth,
 the language that God and Satan use to describe Job's affliction is
-interesting. In both conversations, Satan asks for 
-
-_God_
-
-to afflict Job
-("Stretch out 
-
-_your_
-
-hand and touch all that he has... Stretch out 
-
-_your _
+interesting. In both conversations, Satan asks for _God _to afflict Job
+("Stretch out _your _hand and touch all that he has... Stretch out _your_
 
 hand
-and touch his bone and his flesh"), and God responds by giving 
-
-_Satan_
-
-permission to afflict Job. What are we supposed to make of that?
+and touch his bone and his flesh"), and God responds by giving _Satan _permission to afflict Job. What are we supposed to make of that?
 
 Here's the lesson I think
 we are supposed to learn: God is absolutely sovereign over all of Satan's
@@ -672,11 +614,7 @@ God's express will, purpose, and permission. And even when Satan does act, God
 will not share any of the glory with him; he reserves for himself the glory of
 being the ultimate originator of all events, even the ones that we see as bad.
 When all is said and done in the book of Job, Satan doesn't even get credit for
-destroying Job's life; even over that tragedy, God says, "I am sovereign, 
-
-_I_
-
-did that, and I will get the glory for it." 
+destroying Job's life; even over that tragedy, God says, "I am sovereign, _I _did that, and I will get the glory for it."
 
 What comfort this should
 give to us, weak sheep threatened by the devil who prowls around like a roaring
