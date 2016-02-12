@@ -4,7 +4,7 @@
         <description><![CDATA[The World, the Flesh, and the Devil]]></description>
         <link>https://thegrid.ai/the-world-the-flesh-and-the-devil/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 19:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 19:30:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-world-the-flesh-and-the-devil/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Introduction: Life is War]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-world-the-flesh-and-the-devil/introduction-life-is-war/index.html</link>
             <guid isPermaLink="false">9684c217-1ee4-4c19-8511-d94622f051c9</guid>
             <pubDate>Wed, 10 Feb 2016 03:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chapter 2- The World]]></title>
+            <description><![CDATA[<article><h1>Chapter 2- The World</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54c940ff288b827a8e214377d195102a86198482.png"></article>]]></description>
+            <link>https://thegrid.ai/the-world-the-flesh-and-the-devil/chapter-2-the-world/index.html</link>
+            <guid isPermaLink="false">f685ed8c-b5cd-4061-b0df-a6d49549864a</guid>
+            <pubDate>Fri, 12 Feb 2016 19:30:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chapter 3- The Flesh]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.amazon.com/World-Flesh-Devil-Brendan-Beale/dp/1320511805/ref=sr_1_3?ie=UTF8&amp;qid=1455074532&amp;sr=8-3&amp;keywords=brendan+beale</link>
             <guid isPermaLink="false">60b95aee-09bc-481d-9ccd-a63a9cecf37d</guid>
             <pubDate>Wed, 10 Feb 2016 03:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chapter 1- Taking the Fight to All our Enemies]]></title>
-            <description><![CDATA[<article><h1>Chapter 1- Taking the Fight to All our Enemies</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bedc580960f759953afd14d82ed4ddf7efb02cc4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-world-the-flesh-and-the-devil/chapter-1-taking-the-fight-to-all-our-enemies/index.html</link>
-            <guid isPermaLink="false">c223e9db-2800-45ca-85dc-a559e4d2a9f9</guid>
-            <pubDate>Wed, 10 Feb 2016 03:11:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
