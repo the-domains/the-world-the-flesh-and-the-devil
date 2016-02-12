@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T03:11:13.103Z'
-dateModified: '2016-02-10T03:10:39.334Z'
+datePublished: '2016-02-12T19:32:18.939Z'
+dateModified: '2016-02-12T19:32:04.026Z'
 title: Chapter 1- Taking the Fight to All our Enemies
 author: []
+sourcePath: _posts/2016-02-10-chapter-1-taking-the-fight-to-all-our-enemies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-chapter-1-taking-the-fight-to-all-our-enemies.md
-published: true
 url: chapter-1-taking-the-fight-to-all-our-enemies/index.html
 _type: Article
 
@@ -138,11 +138,7 @@ immediately comes and takes away the word that is sown in them."
 
 But we can't just stop with
 those two enemies; there is a third in this text as well: "among whom we all
-once lived in the passions of our 
-
-_flesh_
-
-, carrying out the desires of the
+once lived in the passions of our _flesh, _carrying out the desires of the
 body and the mind." "The flesh" is the New Testament's term for our sinful
 nature; it's the natural bent of our hearts away from God and towards self-love
 and self-rule. We are born as fallen people, and without God's regenerating grace,
@@ -276,11 +272,7 @@ focus on worldliness to the exclusion of our other enemies quickly turns into
 an emphasis on externals and performance: don't wear certain clothes, don't
 listen to certain music, don't go certain places, don't smoke or chew or go
 with girls who do. Pretty soon our "sanctification" has devolved into the plot
-of 
-
-_Footloose_
-
-, and we've deceived ourselves into thinking we're holy,
+of _Footloose, _and we've deceived ourselves into thinking we're holy,
 when we're really just Pharisees.
 
 ****
@@ -294,12 +286,8 @@ and I tend to focus on this area of sanctification to the dangerous exclusion
 of the other two. This kind of believer has a deep and robust understanding of
 the sinful nature. They are the first to assent to the doctrine of total
 depravity, and have spent many hours in accountability groups discussing their
-heart motives and root idols. They (okay, me) have John Owen's 
-
-_The
-Mortification of Sin_
-
-on their bookshelf and admire the Puritans for their
+heart motives and root idols. They (okay, me) have John Owen's _The
+Mortification of Sin _on their bookshelf and admire the Puritans for their
 deep understanding of the sinfulness of the human heart.
 
 Just like the first group,
@@ -398,11 +386,7 @@ each of them goes beyond the information that we're given in God's Word, and
 leaves us with the tendency to see demons under every doily. Don't get me
 wrong; I don't want to discount the reality of the demonic and Satan's hand in
 our trials. If you don't think that he's involved in any of your trials, read
-the book of Job and 1 Peter. But not 
-
-_everything_
-
-is demonic, and even
+the book of Job and 1 Peter. But not _everything _is demonic, and even
 those things that do have his fingerprints on them can often be effectively
 addressed by the amazing grace of medicine as well as the amazing grace of
 prayer.
@@ -412,11 +396,7 @@ difference and used divine discernment to distinguish maladies that were rooted
 in the physical from those that were rooted in the spiritual. In Luke 13 he saw
 a woman "who had a disabling spirit." He cast out the demon and she was free
 from her crippling paralysis. But many other times when he saw a crippled
-person, we're told he 
-
-_healed_
-
-them, not that he cast out demons. Jesus
+person, we're told he _healed _them, not that he cast out demons. Jesus
 saw the difference, and we should pray for the ability to see the difference
 too. I think that sort of wise discernment will grow as we learn to broaden our
 understanding of the war and begin to fight all our enemies, not just Satan.
