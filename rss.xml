@@ -4,7 +4,7 @@
         <description><![CDATA[The World, the Flesh, and the Devil]]></description>
         <link>https://thegrid.ai/the-world-the-flesh-and-the-devil/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 19:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 19:25:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-world-the-flesh-and-the-devil/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Introduction: Life is War]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-world-the-flesh-and-the-devil/introduction-life-is-war/index.html</link>
             <guid isPermaLink="false">9684c217-1ee4-4c19-8511-d94622f051c9</guid>
             <pubDate>Wed, 10 Feb 2016 03:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chapter 4- The Devil]]></title>
+            <description><![CDATA[<article><h1>Chapter 4- The Devil</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73507ad316a4875dc7086895ad2d9416f0348818.png"></article>]]></description>
+            <link>https://thegrid.ai/the-world-the-flesh-and-the-devil/chapter-4-the-devil/index.html</link>
+            <guid isPermaLink="false">161478b1-5e8e-4b06-b2fc-f03b955206ff</guid>
+            <pubDate>Fri, 12 Feb 2016 19:25:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chapter 6- The Crucified Flesh]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/the-world-the-flesh-and-the-devil/chapter-2-the-world/index.html</link>
             <guid isPermaLink="false">f685ed8c-b5cd-4061-b0df-a6d49549864a</guid>
             <pubDate>Wed, 10 Feb 2016 03:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chapter 3- The Flesh]]></title>
-            <description><![CDATA[<article><h1>Chapter 3- The Flesh</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f41bd31c8274d09d28c42186f315edaf38c06783.png"></article>]]></description>
-            <link>https://thegrid.ai/the-world-the-flesh-and-the-devil/chapter-3-the-flesh/index.html</link>
-            <guid isPermaLink="false">de758f0e-8cd0-4bc9-b733-ea410b103593</guid>
-            <pubDate>Wed, 10 Feb 2016 03:06:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
