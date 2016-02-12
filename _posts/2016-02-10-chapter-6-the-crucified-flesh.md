@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T03:00:52.636Z'
-dateModified: '2016-02-10T03:00:39.070Z'
+datePublished: '2016-02-12T19:21:08.114Z'
+dateModified: '2016-02-12T19:21:00.297Z'
 title: Chapter 6- The Crucified Flesh
 author: []
+sourcePath: _posts/2016-02-10-chapter-6-the-crucified-flesh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-chapter-6-the-crucified-flesh.md
-published: true
 url: chapter-6-the-crucified-flesh/index.html
 _type: Article
 
@@ -41,79 +41,37 @@ page of Paul's writings, over and over and over again. Consider these few
 examples, all taken from the short letter of Ephesians:
 
 Blessed be the God and
-Father of our Lord Jesus Christ, who has blessed us 
-
-_in Christ_
-
-with every
+Father of our Lord Jesus Christ, who has blessed us _in Christ _with every
 spiritual blessing in the heavenly places. ~Ephesians 1:3
 
-He chose us 
-
-_in him_
-
-before the foundation of the world. ~Ephesians 1:4
+He chose us _in him _before the foundation of the world. ~Ephesians 1:4
 
 __
 
-_In him_
-
-we have redemption through his blood, the forgiveness of our
+_In him _we have redemption through his blood, the forgiveness of our
 trespasses. ~Ephesians 1:5
 
 __
 
-_In him_
+_In him _we have obtained an inheritance. ~Ephesians 1:11
 
-we have obtained an inheritance. ~Ephesians 1:11
-
-He raised us up 
-
-_with him_
-
-and seated us 
-
-_with him_
-
-in the heavenly places 
-
-_in Christ Jesus_
-
-, so
+He raised us up _with him _and seated us _with him _in the heavenly places _in Christ Jesus, _so
 that in the coming ages he might show the immeasurable riches of his grace in
-kindness towards us 
-
-_in Christ Jesus_
-
-. ~Ephesians 2:6-7
+kindness towards us _in Christ Jesus._ ~Ephesians 2:6-7
 
 We are his workmanship,
-created 
+created _in Christ Jesus _for good works. ~Ephesians 2:10
 
-_in Christ Jesus_
-
-for good works. ~Ephesians 2:10
-
-But now 
-
-_in Christ Jesus_
-
-you who once were far off have been brought near by the blood of Christ.
+But now _in Christ Jesus _you who once were far off have been brought near by the blood of Christ.
 ~Ephesians 2:13
 
 __
 
-_In him_
-
-you also are being built together into a dwelling place for God
+_In him _you also are being built together into a dwelling place for God
 by the Spirit. ~Ephesians 2:22
 
 Be kind to one another,
-tenderhearted, forgiving one another as God 
-
-_in Christ_
-
-forgave you.
+tenderhearted, forgiving one another as God _in Christ _forgave you.
 ~Ephesians 4:32
 
 It's everywhere! This is
@@ -124,11 +82,7 @@ Spirit in Christ. In the rest of the letter, he talks about how we were raised
 with Christ, seated in Christ, recreated in Christ, brought near in Christ,
 built into a dwelling place for God in Christ, forgiven in Christ, and more.
 Every aspect of the Christian life can only be understood in relation to this
-massive, mysterious truth: we are 
-
-_in Christ_
-
-.
+massive, mysterious truth: we are _in Christ._
 
 And yet, what exactly does
 that mean? If you're anything like me, you probably just skim over those words
@@ -152,23 +106,11 @@ explains that because Adam represented everyone united to him (all humanity),
 his actions counted for them. By virtue of your humanity, you come into this
 world united to your representative, Adam. God credits the actions of your
 representative, and the consequences of those actions, to you. When Adam ate
-the fruit, you ate the fruit 
-
-_in him_
-
-. When Adam received the sentence of
-spiritual death, you received the the sentence of spiritual death 
-
-_in him_
-
-.
-The power of sin and the allurement of the world usurped God from the throne of
-Adam's heart, and therefore usurped the throne of your heart 
-
-_in him_
-
-.
-That's why 1 Corinthians 15:22 says simply, "In Adam all die."
+the fruit, you ate the fruit _in him. _When Adam received the sentence of
+spiritual death, you received the the sentence of spiritual death _in him.
+_The power of sin and the allurement of the world usurped God from the throne of
+Adam's heart, and therefore usurped the throne of your heart _in him.
+_That's why 1 Corinthians 15:22 says simply, "In Adam all die."
 
 The incredible good news
 that we saw back in chapter 3, however, is that God in his great wisdom so
@@ -181,30 +123,13 @@ and its daily power in your life; so also Jesus' perfect obedience was credited
 to you---even though you didn't do it---and now you reap both the eternal
 consequences of that obedience and its daily power in your life. When Jesus
 resisted and overcame Satan's temptations in the wilderness, you resisted and
-overcame Satan's temptations 
-
-_in him_
-
-. When Jesus perfectly honored his
-Father and obeyed him completely, you perfectly honored the Father 
-
-_in him_
-
-.
-That's why the Bible speaks of being justified---declared righteous---
-
-_in Christ;
-_
+overcame Satan's temptations _in him. _When Jesus perfectly honored his
+Father and obeyed him completely, you perfectly honored the Father _in him._
+That's why the Bible speaks of being justified---declared righteous---_in Christ;_
 
 because he is your representative, his obedience counts as your obedience.
-And when Jesus paid the penalty of death for sin, you paid the penalty of death
-
-_in him_
-
-. That's why the Bible speaks of being forgiven and reconciled and
-redeemed 
-
-_in Christ; _
+And when Jesus paid the penalty of death for sin, you paid the penalty of death _in him. _That's why the Bible speaks of being forgiven and reconciled and
+redeemed _in Christ;_
 
 because he is your representative, his payment
 counts as your payment. When he paid sin's penalty perfectly, once for all, God
@@ -219,11 +144,7 @@ if you really start to see it in Scripture and believe it.
 
 When you stumble into that
 same pattern of sin for the ten thousandth time, you are secure in the love and
-favor of your Father because 
-
-_Jesus never stumbled_
-
-. The Father considers
+favor of your Father because _Jesus never stumbled. _The Father considers
 Jesus' obedience as counting for you. And he will not hold you accountable for
 your failure, because he considers it already paid for, because Jesus' payment
 counts for you. That means you can boldly approach the throne of grace with
@@ -245,16 +166,9 @@ times in thought and action. Your obedience doesn't make you any more secure
 than your disobedience makes you insecure. Your security, your foundation, is
 Jesus Christ and him alone. He is your righteousness, he is your payment for
 sin, and every moment of every day you can confidently say, "I am forgiven and
-accepted and beloved and righteous 
+accepted and beloved and righteous _in him."_
 
-_in him_
-
-."
-
-We must get this---really 
-
-_get
-_
+We must get this---really _get_
 
 this, deep down in our hearts---if we are to live in the confidence and
 freedom that the gospel offers us. Fight to see this in the Word, pray for
@@ -299,9 +213,7 @@ anymore, but also in order that the power and presence of sin might be
 decisively defeated, so that we would no longer be enslaved to sin. We can say
 truly that Jesus died for us on the cross, but Paul wants us to see something
 else, even more mysterious and wonderful. The good news of the gospel isn't
-just that Jesus died for you on the cross; it's that when Jesus died, 
-
-_you _
+just that Jesus died for you on the cross; it's that when Jesus died, _you_
 
 died
 too. You were there on the cross too, because Jesus is your representative.
@@ -340,11 +252,7 @@ union with Christ is even bigger than that, and the truth that our old self was
 nailed to the cross with Jesus has massive implications for our struggle with
 the flesh today. Verse 2 puts it like this: "How can we who died to sin still
 live in it?" We have been joined to Jesus (that's the reality which baptism
-pictures) in such a way that his power of over sin and death has become 
-
-_our_
-
-power over sin and death: "Just as Christ was raised from the dead by the glory
+pictures) in such a way that his power of over sin and death has become _our _power over sin and death: "Just as Christ was raised from the dead by the glory
 of the Father, we too might walk in newness of life." That newness of life is
 the indwelling of the Holy Spirit, who has given you a new, tender heart that
 is responsive to God and has the power to say "no" to sin and "yes" to God." By
@@ -355,15 +263,9 @@ God is for you in Jesus.
 ALREADY... NOT YET
 
 But this is where it gets
-tricky: to what extent is that newness of life ours 
-
-_now_
-
-? Paul says that
+tricky: to what extent is that newness of life ours _now? _Paul says that
 "our old self was crucified with him... so that we might no longer be enslaved to
-sin." I don't know about you, but I still often 
-
-_feel _
+sin." I don't know about you, but I still often _feel_
 
 enslaved to sin. If
 I have power to say "no" to sin, why do I still find myself saying "yes" so
@@ -387,22 +289,10 @@ been united with him in a death like his, we shall certainly be united with him
 in a resurrection like his._
 
 Paul is making a profound
-argument here. We have the ability to walk in newness of life now 
-
-_because_
-
-,
+argument here. We have the ability to walk in newness of life now _because,_
 just like we were united with Jesus' death, we shall certainly one day be
 united with him in his resurrection. One has already happened; one hasn't taken
-place yet. You can see that in the verb tenses of verse 5: "We 
-
-_have been_
-
-united with him in a death like his... we 
-
-_shall_
-
-certainly be united with
+place yet. You can see that in the verb tenses of verse 5: "We _have been _united with him in a death like his... we _shall _certainly be united with
 him in a resurrection like his." One has already happened; the other has not
 yet fully materialized. And right now we are stuck in the middle between the
 already and the not yet. But the power to live free now flows from the
@@ -444,13 +334,7 @@ and alive to God in Christ Jesus._
 "The one who has
 died"---that's you, by virtue of your union with Jesus---"has been set free from
 sin." But in the next sentence, there's the already/not yet tension again: "If
-we 
-
-_have_
-
-died with Christ, we believe that we 
-
-_will _
+we _have _died with Christ, we believe that we _will_
 
 also live with
 him." We've died and have been set free from sin, but aren't yet alive in the
@@ -476,24 +360,16 @@ resurrection, and because we were united with him in his death, one day we will
 share that victory too. 
 
 Look at the emphasis Paul
-puts on our faith and certainty. "If we have died with Christ, we 
-
-_believe _
+puts on our faith and certainty. "If we have died with Christ, we _believe_
 
 that
-we will also live with him. We 
-
-_know _
+we will also live with him. We _know_
 
 that Christ, being raised from the
 dead, will never die again." This hopeful certainty is the present-day power of
 our future resurrection. The poison of sin is still circulating in your veins,
 but to the extent you anticipate the antidote's power, the antidote begins
-working now. Your hopeful certainty 
-
-_is_
-
-the antidote's present power.
+working now. Your hopeful certainty _is _the antidote's present power.
 
 We can see that in the way
 Paul describes Jesus' resurrection life now, and what that has to do with our
@@ -503,30 +379,18 @@ Paul didn't say that Jesus died "for sin" (although that's certainly true). He
 said that Jesus died "to sin." When Paul says that Jesus "died to sin," he
 means that all of sin's effects are gone from Jesus forever. He is no longer
 subject to any temptation, and will never experience any of the consequences of
-sin again. Of course, he never experienced consequences of 
-
-_his_
-
-sin,
-because he didn't have any---but he did experience the consequences of 
-
-_your_
-
-sin, and he was tempted in every way that you are. But now he has died to sin;
+sin again. Of course, he never experienced consequences of _his _sin,
+because he didn't have any---but he did experience the consequences of _your _sin, and he was tempted in every way that you are. But now he has died to sin;
 on the cross, he took all of it on himself, brought it down to the grave, and
 left it there. And now that he is in heaven in the presence of his Father, "the
 life he lives, he lives to God." That means he is fully focused on and
 committed to his Father's glory and purposes above all else. All his life and
-power today is bent on completing his Father's agenda. 
+power today is bent on completing his Father's agenda.
 
 That's what Jesus' life in
 heaven is like now. And---here's the crucial connection---one day, that's what your
 life will be like too. That's the connection that Paul made in verse 5: "If we
-have been united with him in a death like his, we shall 
-
-_certainly_
-
-be
+have been united with him in a death like his, we shall _certainly _be
 united with him in a resurrection like his." One day, all the effects and
 temptations and consequences of sin will be removed from you permanently, and
 you will finally be free to fully focus on the Father's glory and purposes
@@ -549,9 +413,7 @@ __
 
 _He died to sin, once for all, but the life he lives he lives to
 God. So you also must consider yourselves dead to sin and alive to God in
-Christ Jesus_
-
-. 
+Christ Jesus_.
 
 That resurrection is your
 certain future, so day by day live in the good of that future victory. He died
@@ -561,11 +423,7 @@ Father's purposes; so you likewise fix your mind on things that are above and
 focus on the Father's purposes.
 
 God has said that these
-things are already true of you---in Ephesians and Colossians he says that "you 
-
-_have_
-
-been raised up with Christ"---and even though you aren't standing there yet, the
+things are already true of you---in Ephesians and Colossians he says that "you _have _been raised up with Christ"---and even though you aren't standing there yet, the
 secret to victory over the flesh is to live like that's true. This doesn't mean
 that the Christian life is some kind of mind game, an easy "believe it and it's
 true" scheme. No, it's a lot harder than that; it's the call to trust what God
@@ -601,11 +459,7 @@ Do you see how the same
 flow of logic from Romans 6 is working here in Colossians 3? You are united to
 Jesus' death and resurrection; therefore set your mind and attention and
 pursuit on heavenly things, where Christ is reigning in the fullness of his
-resurrection life. Do this, verse 3 says, 
-
-_because_
-
-you have died with
+resurrection life. Do this, verse 3 says, _because _you have died with
 Christ, and your life is now wrapped up with him. Wait with eager anticipation
 for your own resurrection life to appear (verse 4), and in the meantime, in
 light of that coming glory, put to death all those earthly desires of your
