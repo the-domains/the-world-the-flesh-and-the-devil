@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T02:57:14.402Z'
-dateModified: '2016-02-10T02:55:25.595Z'
+datePublished: '2016-02-12T19:14:14.047Z'
+dateModified: '2016-02-12T19:14:13.436Z'
 title: Chapter 8- Stand Firm
 author: []
+sourcePath: _posts/2016-02-10-chapter-8-stand-firm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-chapter-8-stand-firm.md
-published: true
 url: chapter-8-stand-firm/index.html
 _type: Article
 
@@ -311,14 +311,10 @@ simple question: whose righteousness is this? Whose righteousness am I supposed
 to arm myself with? My own? Or his? We know from Romans 4-5 that we are clothed
 in the righteousness of Christ---that his obedience is credited to us. I do think
 that's exactly the righteousness in mind here, because remember whose armor this
-is: God's armor! This is God's righteousness. Remember Isaiah 59:17---"
-
-_He_
-
-put on righteousness as a breastplate." The righteousness of Christ is our
+is: God's armor! This is God's righteousness. Remember Isaiah 59:17---"_He _put on righteousness as a breastplate." The righteousness of Christ is our
 breastplate, protecting us against all the accusations of Satan. No accusation
 will ever stick against those whom God has justified, because the obedience of
-Jesus is ours. 
+Jesus is ours.
 
 So what does this look like
 practically? Isaiah 61:10 is a good place to start:
@@ -375,13 +371,9 @@ against the arrows of the evil one, and in Psalm 91 it says, "His
 faithfulness is a shield and buckler. You will not fear the terror of the
 night; nor the arrow that flies by day." In Ephesians 6 the shield is 
 
-_our_
+_our _faith. And in Psalm 91 the shield is
 
-faith. And in Psalm 91 the shield is 
-
-_his _
-
-faithfulness. It's the exact
+_his _faithfulness. It's the exact
 same imagery; it's probably the imagery that Paul is drawing on. Here's what I
 infer from that: our faith is in his faithfulness. Our trust is in his ability
 and commitment to keep his promises. Peter says, "Let those who suffer
