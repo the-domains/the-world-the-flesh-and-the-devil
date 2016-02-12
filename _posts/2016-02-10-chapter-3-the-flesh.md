@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T03:06:52.792Z'
-dateModified: '2016-02-10T03:06:38.065Z'
+datePublished: '2016-02-12T19:27:52.008Z'
+dateModified: '2016-02-12T19:27:48.692Z'
 title: Chapter 3- The Flesh
 author: []
+sourcePath: _posts/2016-02-10-chapter-3-the-flesh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-chapter-3-the-flesh.md
-published: true
 url: chapter-3-the-flesh/index.html
 _type: Article
 
@@ -50,11 +50,7 @@ destruction, the reality of Satan should be enough to keep us up at night.
 
 But I'll tell you what I'm
 most afraid of. Forget the world and Satan. Let them do their worst. What I'm
-most afraid of---what really does keep me up at night---is 
-
-_me_
-
-. I'm most
+most afraid of---what really does keep me up at night---is _me. _I'm most
 afraid of myself. I have seen enough of my heart to know its deceptions, and I
 truly believe that its deception is far more dangerous than "the deceitfulness
 of riches" (Mark 4:19) or "the father of lies" (John 8:44). And while I know
@@ -130,19 +126,11 @@ goes for worldliness; think back to last chapter and how much of the Bible's
 description of worldliness centered around passions and desires. Yes, external
 things in the world prompt those desires, but never forget that those desires
 originate in a fleshly heart that prefers God to other things. Effective
-warfare against worldliness is primarily directed at 
-
-_me_
-
-, at my own heart
+warfare against worldliness is primarily directed at _me, _at my own heart
 and desires. The same goes for spiritual warfare; the best way to take your
 stand against Satan's schemes is to guard your own heart and mind with the
 truth of the gospel (see Ephesians 6:10-20). In both cases, the greatest danger
-is 
-
-_you_
-
----your own sinful heart that rebels against God.
+is _you---_your own sinful heart that rebels against God.
 
 We must grasp this
 all-important truth if we are to make any headway in the battle against our
@@ -243,11 +231,7 @@ He clarifies by pointing
 out a discrepancy that, honestly, I had never thought of before. The problem
 with simply saying that "death spread to all men because all sinned" is that,
 if you think about the rest of human history in the book of Genesis, only Adam
-actually 
-
-_sinned_
-
-. Only Adam disobeyed a direct order from God---"Don't eat
+actually _sinned. _Only Adam disobeyed a direct order from God---"Don't eat
 that fruit." Yes, Cain murdered his brother... but that was before God actually
 said, "Thou shalt not kill." You see, the law hadn't been given yet---that didn't
 happen until the book of Exodus. That's what Paul breaks his train of thought
@@ -335,11 +319,7 @@ That final sentence says it
 all: in the same way that Adam's disobedience was credited to you---even though
 you didn't do it---and you reaped both the eternal consequence of that sin and
 its daily power in your life; so also Jesus' perfect obedience was credited to
-you believer---
-
-_even though you didn't do it!---_
-
-and you now reap both the
+you believer---_even though you didn't do it!---_and you now reap both the
 eternal consequence of that obedience and its daily power in your life. That's
 Paul's closing conclusion in verse 21: "As sin reigned in death, grace also
 might reign through righteousness leading to eternal life through Jesus Christ
@@ -491,16 +471,8 @@ _...your old self, which belongs to your former manner of life and is
 corrupt through deceitful desires..._
 
 The main way that our
-hearts deceive us and draw us into sinful behavior is through 
-
-_desires_
-
-.
-We've already seen the reason that these desires are 
-
-_deceitful_
-
-; they
+hearts deceive us and draw us into sinful behavior is through _desires_.
+We've already seen the reason that these desires are _deceitful; _they
 promise joy and fulfillment and happiness if only you will give into them, but
 they never deliver. Instead, like a drug addiction giving ever-smaller returns
 for ever-greater indulgence, these desires will slowly strangle our souls,
@@ -522,9 +494,7 @@ against.
 Because the sinful nature
 is a constellation of rebellious desires rather than behaviors, the primary way
 that the Bible equips believers to battle against the flesh is not behavior
-modification, but rather 
-
-_desire _
+modification, but rather _desire_
 
 modification. What we need is not new
 behaviors; we need new desires. These, of course, are far more difficult to
@@ -683,8 +653,4 @@ slavery to sin:
 __
 
 _"Wretched man that I am! Who will deliver me from this body of
-death? _
-
-_**Thanks be to God through Jesus Christ our Lord!**_
-
-" (Romans 7:24-25)
+death? __**Thanks be to God through Jesus Christ our Lord!**_" (Romans 7:24-25)
