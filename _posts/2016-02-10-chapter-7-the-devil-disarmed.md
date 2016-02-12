@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T19:06:42.346Z'
-dateModified: '2016-02-12T19:06:39.348Z'
+datePublished: '2016-02-12T19:14:32.309Z'
+dateModified: '2016-02-12T19:14:30.125Z'
 title: Chapter 7- The Devil Disarmed
 author: []
 sourcePath: _posts/2016-02-10-chapter-7-the-devil-disarmed.md
