@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T19:04:47.143Z'
-dateModified: '2016-02-12T19:04:45.239Z'
+datePublished: '2016-02-12T19:21:33.846Z'
+dateModified: '2016-02-12T19:21:25.293Z'
 title: Chapter 5- Dead to the World
 author: []
 sourcePath: _posts/2016-02-10-chapter-5-dead-to-the-world.md
