@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T03:09:12.068Z'
-dateModified: '2016-02-10T03:08:58.443Z'
+datePublished: '2016-02-12T19:30:23.692Z'
+dateModified: '2016-02-12T19:30:18.653Z'
 title: Chapter 2- The World
 author: []
+sourcePath: _posts/2016-02-10-chapter-2-the-world.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-chapter-2-the-world.md
-published: true
 url: chapter-2-the-world/index.html
 _type: Article
 
@@ -97,11 +97,7 @@ When the Bible is talking about "the world" in moral, behavioral terms, that's
 what it means. But Scripture also uses "the world" to refer to the object of
 Jesus' saving mission---as in, "For God so loved the world." Obviously, John 3:16
 doesn't mean that God delights in fallen culture and and values and sends his
-Son to save those things. John 3:16 is talking about 
-
-_people_
-
-. Therefore,
+Son to save those things. John 3:16 is talking about _people. _Therefore,
 when the Bible talks about "the world" in reference to salvation, it's talking
 about the scope of what Jesus accomplished at the cross: forgiveness, mercy,
 and salvation purchased for people from every tribe and nation and language. It
@@ -222,16 +218,8 @@ central reference point and highest Treasure, their heart will not remain a
 worship-less vacuum; their own desires will become their de facto gods. Instead
 of following God, they will follow their own passions. This is what Philippians
 3:19 teaches: "Many walk as enemies of the cross of Christ. Their end is
-destruction, 
-
-_their god is their belly_
-
-, and they glory in their shame, 
-
-_with
-minds set on earthly things._
-
-" When you think of the phrase "enemies of the
+destruction, _their god is their belly, _and they glory in their shame, _with
+minds set on earthly things." _When you think of the phrase "enemies of the
 cross of Christ," don't just think atheists. Think of those---perhaps
 yourself---whose functional god is their own appetite, who do what they want
 simply because they want to do it, without thought of God, whose minds are set
@@ -241,11 +229,7 @@ God.
 It is these kind of people,
 Jude says, who are "worldly people, devoid of the Spirit." Just like the
 Pharisees in John 8, those who follow their own ungodly passions, whose minds
-are set on earthly things, are "worldly people, 
-
-_devoid_
-
-of the Spirit."
+are set on earthly things, are "worldly people, _devoid _of the Spirit."
 God is absent from their thinking and feeling. That's worldliness: any thing,
 person, or activity in which God is absent. That absence of God is the root of
 every other fruit of worldliness; all those ungodly passions flow from a heart
@@ -315,9 +299,7 @@ real decisions based on things you can touch and feel and see."
 EMPTY DECEIT
 
 Colossians warns against
-this worldly wisdom using different language to describe the same reality
-
-: 
+this worldly wisdom using different language to describe the same reality: 
 
 __
 
@@ -333,16 +315,8 @@ age to age the specifics of the culture's philosophy might change, but it
 always accords with "the elemental principles of the world" instead of
 according with Christ. Note the contrast he draws between the "empty deceit" of
 worldly wisdom and the fullness of biblical wisdom. Empty deceit is contrasted
-with Christ, in whom the whole 
-
-_fullness_
-
-of deity dwells bodily, and then
-Paul goes on to say that you, believer, have been 
-
-_filled_
-
-with that
+with Christ, in whom the whole _fullness _of deity dwells bodily, and then
+Paul goes on to say that you, believer, have been _filled _with that
 fullness. The argument goes: why would you be taken in by empty ways of
 thinking and living when the fullness of deity has condescended to come and
 fill you? While Oprah and those like her promise "your best life now," God's
@@ -357,9 +331,7 @@ behavior modification---"Do this, don't do that"---but with thought and desire
 modification: changing what we think and believe and want. Everything you do
 flows from what you believe about God and the world; if, down at the core of
 your being, you really believe that your happiness is ultimate, then it doesn't
-really matter what you 
-
-_say _
+really matter what you _say_
 
 you believe; your actions will ultimately
 flow out of that heart- and mind-set.
@@ -412,20 +384,10 @@ that friendship with the world is enmity with God? Therefore whoever wishes to
 be a friend of the world makes himself an enemy of God._
 
 Do you see how the flesh
-and the world team up here? James points out that our root issue is 
-
-_desires_
-
-;
-that is, fleshly, sinful, selfish desires for
-
-things. "You desire and
-don't have... you covet and cannot obtain." What our sinful hearts want is 
-
-_stuff_
-
-,
-stuff to pour into the God-shaped hole inside of us. But stuff can't fill that
+and the world team up here? James points out that our root issue is _desires;
+_that is, fleshly, sinful, selfish desires for things. "You desire and
+don't have... you covet and cannot obtain." What our sinful hearts want is _stuff,
+_stuff to pour into the God-shaped hole inside of us. But stuff can't fill that
 gap and can't satisfy those desires, and so those unmet longings explode into
 sin.
 
@@ -529,9 +491,7 @@ many incredibly godly people who have influenced me greatly.
 
 __
 
-_But so did Demas_
-
-. And all his ministry, all his gospel work, all his learning and all
+_But so did Demas_. And all his ministry, all his gospel work, all his learning and all
 his mentors, were not enough to woo him from his real love. And the final
 results were catastrophic; his friendship with the world proved him, in the
 end, to be an enemy of God, and the weeds of worldliness choked out whatever
